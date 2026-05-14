@@ -8,7 +8,7 @@
     </description>
     <language>en</language>
     <link>https://civilbook.in</link>
-    <lastBuildDate>Thr, 14 May 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:00:00 +0000</lastBuildDate>
     <generator>CivilBook Update Feed Generator</generator>
     <!-- Android version -->
     <item>
@@ -16,12 +16,12 @@
         <description>
           <p><strong>What's New:</strong></p>
           <ul>
-            <li> In-App Audio Calling</li>
+            <li> Added Send Quotation Features to customers</li>
             <li>🛠 Fixed App Crashes</li>
             <li>🛠 Bug fixes & stability</li>
           </ul>
         </description>
-        <pubDate>Thr, 14 May 2026 10:00:00 +0000</pubDate>
+        <pubDate>Thu, 14 May 2026 10:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.civilbook.civilbookprovider"
                    sparkle:version="19.1.0"
                    sparkle:shortVersionString="19.1.0"
